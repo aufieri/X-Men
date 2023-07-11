@@ -18,7 +18,7 @@
     }
 
     .lista-de-personagem{
-        gap: 9px;
+        gap: 10px;
     }
 
     .selecao img{
@@ -26,8 +26,8 @@
     }
 
     personagem-grande{
-        width: 350px;
-        height: 350px;
+        width: 150px;
+        height: 150px;
     }
     
 

@@ -63,7 +63,7 @@ const personagens = document.querySelectorAll('.personagem');
         descricaoPersonagem.innerText = personagem.getAttribute ('data-description')
 
 
-         
+        
         
     })   
 })    
